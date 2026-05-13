@@ -1,2 +1,5 @@
-new
 raj
+Delete
+stack
+queue
+linked list
